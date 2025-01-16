@@ -1,3 +1,4 @@
 # Sitemap is also available on /sitemap.xml
 Sitemap: https://www.enlozadoctor.totalh.net/sitemap.xml
 User-agent: *
+Allow: /
